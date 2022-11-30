@@ -1,0 +1,15 @@
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/bin/Debug/net6.0/tipujcislo
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/bin/Debug/net6.0/tipujcislo.deps.json
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/bin/Debug/net6.0/tipujcislo.runtimeconfig.json
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/bin/Debug/net6.0/tipujcislo.dll
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/bin/Debug/net6.0/tipujcislo.pdb
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/tipujcislo.csproj.AssemblyReference.cache
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/tipujcislo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/tipujcislo.AssemblyInfoInputs.cache
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/tipujcislo.AssemblyInfo.cs
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/tipujcislo.csproj.CoreCompileInputs.cache
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/tipujcislo.dll
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/refint/tipujcislo.dll
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/tipujcislo.pdb
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/tipujcislo.genruntimeconfig.cache
+/Users/fedormoiseev/Projects/tipujcislo/tipujcislo/obj/Debug/net6.0/ref/tipujcislo.dll
